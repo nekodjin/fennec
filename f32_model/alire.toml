@@ -1,0 +1,10 @@
+name = "f32_model"
+description = "Types representing the fox32 ISA and their [de]serialization logic."
+version = "0.1.0-dev"
+
+authors = ["Avery Antónia Rosenblum-O'Connor"]
+maintainers = ["Avery Antónia Rosenblum-O'Connor <contact@nekodjin.org>"]
+maintainers-logins = ["nekodjin"]
+licenses = "GPL-3.0-only"
+website = ""
+tags = []
